@@ -1,0 +1,33 @@
+
+.champ {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    box-shadow: 0px 1px 1px 1px #C8C8C8;
+    padding-right: 17px;
+    border-radius: 1px;
+    border: hidden;
+    padding: 12px 20px;
+    margin: 8px 0;
+    font-size: 17px;
+    width: 490px;
+    height: 18px;
+    transition: 0.3s;
+}
+.searchbar {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 15px;
+}
+.searchbar input {
+    border-radius: 30px;
+    background-position: 98%;
+    background-size: 24px 24px;
+    padding-right: 80px;
+}
+.image {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
